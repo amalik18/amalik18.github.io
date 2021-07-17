@@ -10,4 +10,4 @@ permalink: /projects/
 
 ### Projects for Fun
 
-- [RustOS](rustOS)
+- [RustOS](RustOS)

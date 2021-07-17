@@ -10,6 +10,3 @@ I've always wanted to play around with writing an operating system but, I never 
 
 ### **GitHub Repo**
 * [RustOS](https://github.com/amalik18/RustOS)
-
-### **GitHub Project Link**
-* [Project Link](https://github.com/users/amalik18/projects/1)
