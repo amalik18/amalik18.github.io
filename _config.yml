@@ -33,6 +33,18 @@ remote_theme: "jeffreytse/jekyll-theme-yat@v1.10.0"
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 repository: "amalik18/amalik18.github.io"
 
+sitemap: true
+
+theme_color: snowwhite
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-spaceship
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
