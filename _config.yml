@@ -28,6 +28,7 @@ url: "https://www.ahmazin.dev"
 # theme: jekyll-theme-midnight
 remote_theme: "jeffreytse/jekyll-theme-yat@v1.10.0"
 # theme: jekyll-theme-yat
+repository: "amalik18/amalik18.github.io"
 
 
 sitemap: true

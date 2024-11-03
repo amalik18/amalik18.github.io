@@ -29,3 +29,5 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }} # It's your Personal Access Token(PAT)
           jekyll_cfg: '_config.yml'  # Default is _config.yml
           cname: 'www.ahmazin.dev'                  # Default is to not use a cname
+          jekyll_src: './'
+          jekyll_baseurl: "/jekyll-theme-yat"
